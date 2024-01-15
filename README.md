@@ -1,8 +1,12 @@
 # final-project
 
-# Abstract
+## Abstract
 
-# Background literature
+# Background Information
+
+# Research Question
+
+# Hypotheses
 
 # Method
 
