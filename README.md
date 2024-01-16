@@ -36,7 +36,7 @@ Prior research show women tend to use more intensifiers than men. We hypothesise
   - **Gender:** Participants will be categorized into two groups: male and female.
 
 - **Dependent Variable:**
-  - **Frequency of Intensifier Usage:**
+  - **Frequency of Intensifier Usage**
 
 
 
